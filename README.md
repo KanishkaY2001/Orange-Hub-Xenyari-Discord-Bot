@@ -3,7 +3,8 @@
 ## Instructions:
 1. Open project through VScode
 2. Follow tutorial, enter bot token
-3. Run program to activate bot  
+3. Replace applicable discord user token
+4. Run program to activate bot 
 ## Tutorial:
 (Credit: Adam Gaskins)  
 https://www.youtube.com/watch?v=oE6alzUzcw4&t=673s&ab_channel=AdamGaskins
