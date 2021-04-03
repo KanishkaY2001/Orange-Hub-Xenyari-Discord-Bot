@@ -1,0 +1,7 @@
+module.exports = {
+    name: 'features',
+    description: "This displays list of features",
+    execute(message, args){
+        message.channel.send('```[Feature List]``````--> Anti-Afk.\n--> Safely farm Days (Unreachable Position).\n--> Webhook Notifier.\n--> Auto-updating (No need to re-download).\n--> Option to Stop the farming (GUI on bottom right corner).\n--> Option to teleport out of safe-zone when required (TP OUT).\n--> Adjustable Option to kick or remain when you have insufficient silver.\n--> GUI timer showing remaining time until next roll.\n--> Custom & Adjustable auto-kick feature when players are nearby [0-300 studs distance].\n--> Improved whitelist Security +1.\n--> Only kicked from game when out of combat.\n--> Wait until nobody is near the scroll roulette man before attempting to roll (safety).\n--> Automatically log if you die for whatever reason.\n--> Can now toggle GUI on and off with key: "P".\n--> Minimal lag when using the bot.\n--> You no longer teleport/roll when somebody is spectating you. (It waits until they have stopped spectating).\n--> It will now kick you if you get any of the 5 ultra rare gacha spells.\n--> Bot notification for death, running out of silver, or nearby players.\n--> Roll everytime your day-counter increases instead of waiting a fixed 3600 seconds.\n--> Bot notification shows the day at which you rolled and displays who killed you.```');
+    }
+}
