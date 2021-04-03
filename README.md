@@ -1,0 +1,2 @@
+# Xenyari
+a discord bot
